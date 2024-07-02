@@ -1,3 +1,5 @@
+# task: https://www.codewars.com/kata/5503013e34137eeeaa001648
+
 def diamond(n):
     if n > 0 and n % 2 == 1:
         res = []
